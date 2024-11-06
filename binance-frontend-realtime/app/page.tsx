@@ -30,7 +30,7 @@ export default function Home() {
             </div>
         </div>
        <div className="col-span-1 relative">
-    <div className="absolute bottom-0 right-24 text-white" >
+    {/* <div className="absolute bottom-0 right-24 text-white" >
         <div style={{ fontSize: "1.5rem" }}>
           MarketNexus.inc
         </div>
@@ -38,7 +38,7 @@ export default function Home() {
         style={{fontSize: "1rem"}}>
             CEO: Ritik Bora
         </div>
-    </div>
+    </div> */}
     
 </div>
 
